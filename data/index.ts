@@ -68,23 +68,25 @@ export const techStack = [
 
 export const services = [
   {
-    "id": 2,
-    "title": "Web Design",
-    "description": "Creating visually appealing and functional websites focused on intuitive user experience across all devices.",
-    "icon": "🎨"
+    id: 2,
+    title: "Full-Stack Development",
+    description: "Building secure, scalable, and high-performance web applications using modern front-end and back-end technologies.",
+    icon: "⚙️"
   },
   {
-    "id": 3,
-    "title": "Front-End Development",
-    "description": "Developing responsive and performant user interfaces using HTML, CSS, JavaScript, and modern frameworks.",
-    "icon": "💻"
+    id: 3,
+    title: "System Engineering",
+    description: "Managing server infrastructure, automation, CI/CD pipelines, and deployment using Linux, Docker, Nginx, and more.",
+    icon: "🖥️"
   },
   {
-    "id": 4,
-    "title": "Web Development",
-    "description": "Building fast, secure, and scalable websites using modern technologies to meet your business goals.",
+    id: 4,
+    title: "Cybersecurity Solutions",
+    description: "Implementing secure coding practices, penetration testing, and system hardening based on OWASP and industry standards.",
+    icon: "🛡️"
   }
 ];
+
 
 
 export const projects = [
